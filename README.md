@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm @rachotzzZ</h1>
-<h3 align="center">I'm high school student</h3>
-<h3 align="center">This account is for [CS50](https://cs50.harvard.edu/x/2022/) Course ONLY</h3>
+<h3 align="center">:school:I'm high school student:school:</h3>
+<h3 align="center">This account is for <a href="https://cs50.harvard.edu/x/2022/">CS50</a> course ONLY</h3>
 
 
 </p>
